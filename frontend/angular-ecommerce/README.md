@@ -1,3 +1,5 @@
+# To be able to use Authentication run ng serve --ssl
+
 # AngularEcommerce
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
