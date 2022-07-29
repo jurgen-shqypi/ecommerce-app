@@ -7,8 +7,6 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 
 @CrossOrigin("*")
 @RepositoryRestResource(collectionResourceRel = "countries", path = "countries")
-public interface CountryRepository extends JpaRepository<Country, Integer> {
-
-
+public interface CountryRepository extends JpaRepository<Country, Long> {
 
 }
