@@ -1,4 +1,4 @@
-### E-commerce application (Angular and SpringBoot)
+## E-commerce application (Angular and SpringBoot)
 
 ## Features
 * Login and Register
@@ -12,5 +12,5 @@ Authentication done through Auth0 Authentication Api and Jwt
 
 ## Development Server
 
-# Start backend server
-# Run ng serve --ssl to start Angular app
+### Start backend server
+### Run ng serve --ssl to start Angular app
